@@ -1,7 +1,7 @@
-# BinaryNinja NodeJS NAPI Types Importer
+# NodeJS NAPI Types Importer
 Author: **Cesaryuan**
 
-A plugin that imports NodeJS N-API Types.
+A Binary Ninja plugin that imports NodeJS N-API Types.
 
 ## Description:
 
