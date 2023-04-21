@@ -20,6 +20,6 @@ def run_plugin(bv: BinaryView):
         bv.import_library_object(data_var.name, type_lib)
          
 PluginCommand.register(
-  "Cesar - Import NodeAPI",
+  "Cesar - Import NodeJS N-API",
   "Import types for NodeJS N-API",
   run_plugin)
