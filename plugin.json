@@ -1,0 +1,23 @@
+{
+	"plugin": {
+		"pluginmetadataversion" : 2,
+		"name": "NodeJS NAPI Types Importer",
+		"type": ["binaryview"],
+		"api": ["python2", "python3"],
+		"description": "A plugin that imports NodeJS NAPI functions.",
+		"license": {
+			"name": "MIT"
+		},
+		"dependencies": {
+			"pip": [],
+			"apt": [],
+			"installers": [],
+			"other": []
+		},
+		"platforms" : ["Darwin", "Linux", "Windows"],
+		"version": "0.1",
+		"author": "Cesaryuan",
+		"minimumBinaryNinjaVersion": 1200
+	}
+}
+
